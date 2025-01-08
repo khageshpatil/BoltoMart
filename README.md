@@ -2,8 +2,9 @@
 ## Project Overview
 
 
-![Recording2024-09-08011201-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/bae137e2-cdb7-4ca2-903d-e016217f1d2b)
-
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/bae137e2-cdb7-4ca2-903d-e016217f1d2b" alt="Recording2024-09-08011201-ezgif com-video-to-gif-converter">
+</div>
 
 The BoltoMart backend application serves as the core of our multi-vendor e-commerce platform, BoltoMart. This platform is designed to facilitate fast delivery of electronic and hardware products through various vendors, similar to services like Swiggy and Zomato but focused on electronics.
 
