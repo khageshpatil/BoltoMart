@@ -1,9 +1,14 @@
 
 ## Project Overview
 
-The BoltMart backend application serves as the core of our multi-vendor e-commerce platform, BoltMart. This platform is designed to facilitate fast delivery of electronic and hardware products through various vendors, similar to services like Swiggy and Zomato but focused on electronics.
+
+![Recording2024-09-08011201-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/bae137e2-cdb7-4ca2-903d-e016217f1d2b)
+
+
+The BoltoMart backend application serves as the core of our multi-vendor e-commerce platform, BoltoMart. This platform is designed to facilitate fast delivery of electronic and hardware products through various vendors, similar to services like Swiggy and Zomato but focused on electronics.
 
 Built using Java Spring Boot, the application follows a microservice architecture and leverages AWS RDS for MySQL database management to ensure scalability and reliability.
+
 
 ## Technology Stack
 
@@ -15,7 +20,7 @@ AWS RDS MySQL: Managed relational database service for reliable and scalable dat
 
 ## Microservices Architecture
 
-The BoltMart application is built using a microservices architecture to ensure scalability, flexibility, and maintainability. The following services are integral to the system:
+The BoltoMart application is built using a microservices architecture to ensure scalability, flexibility, and maintainability. The following services are integral to the system:
 
 ### **Auth Service** (`Port: 8081`)
 Responsible for managing authentication and authorization for both vendors and customers. This service handles user login, registration, and token management to ensure secure access to the platform.
